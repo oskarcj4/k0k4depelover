@@ -15,9 +15,10 @@ Sistema de monitoreo por webcam con detección de movimiento usando **MOG2 (Gaus
 ## 🛠️ Stack
 
 ```
-Backend      Java (Spring Boot) · Node.js · Python
-Frontend     React · TypeScript
-Bases datos  MySQL · PostgreSQL
+Backend      Java (Spring Boot) · C# · Python
+ML           Pytorch · Scikit · Pandas/Polars
+Frontend     React · TypeScript HTML5
+Bases datos  MySQL · PostgreSQL QDrant MongoDB
 Sistemas     C++ · Bash 
 ```
 
