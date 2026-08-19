@@ -24,11 +24,4 @@ Sistemas     C++ · Bash
 
 ---
 
-## 📊 Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=k0k4depelover&show_icons=true&theme=dark&hide_border=true&count_private=true)
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=k0k4depelover&layout=compact&theme=dark&hide_border=true)
-
----
-
 [![Email](https://img.shields.io/badge/Gmail-oskarcermeno1%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:oskarcermeno1@gmail.com)
