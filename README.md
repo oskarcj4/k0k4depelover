@@ -19,7 +19,8 @@ Backend      Java (Spring Boot) · C# · Python
 ML           Pytorch · Scikit · Pandas/Polars
 Frontend     React · TypeScript HTML5
 Bases datos  MySQL · PostgreSQL QDrant MongoDB
-Sistemas     C++ · Bash 
+Sistemas     C++ · Bash
+Cloud        AWS · Terraform
 ```
 
 ---
