@@ -3,15 +3,6 @@
 Soy desarrollador de software interesado en Sistemas Distribuidos, Seguridad y Machine Learning
 ---
 
-### 👁️ [VigilanteIA](https://github.com/k0k4depelover/vigilanteIA) — Computer Vision con OpenCV
-Sistema de monitoreo por webcam con detección de movimiento usando **MOG2 (Gaussian Mixture Model)**. Transmite video MJPEG en vivo por Flask y envía alertas a Telegram. Construido para monitorear a mi perra post-cirugía.
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
-
----
-
 ## 🛠️ Stack
 
 ```
