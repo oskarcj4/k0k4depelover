@@ -1,6 +1,6 @@
 # Hola, soy Oskar 👋
 
-Soy desarrollador de software interesado en Sistemas Distribuidos, Seguridad y Machine Learning
+Soy desarrollador interesado en Sistemas Distribuidos en la Nube, DevSecOps, y Machine Learning
 ---
 
 ## 🛠️ Stack
